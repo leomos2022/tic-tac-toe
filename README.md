@@ -14,7 +14,7 @@ A simple, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 ## How to Play
 
-1. Open `tictactoe.html` in any modern web browser
+1. Open `index.html` in any modern web browser
 2. Click on any empty cell to place your mark (X or O)
 3. Take turns with another player
 4. Get three of your marks in a row (horizontally, vertically, or diagonally) to win

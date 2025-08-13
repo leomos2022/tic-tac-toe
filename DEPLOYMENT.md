@@ -60,7 +60,7 @@ git push -u origin main
 ## Troubleshooting
 
 - **Page not found**: Wait a few minutes for GitHub Pages to build and deploy
-- **404 error**: Make sure your main file is named `index.html` or `tictactoe.html` is in the root directory
+- **404 error**: Make sure your main file is named `index.html` in the root directory
 - **Build failed**: Check that your repository is public or you have GitHub Pro for private repositories
 
 ## Custom Domain (Optional)
